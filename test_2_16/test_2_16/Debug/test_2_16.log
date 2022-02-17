@@ -1,0 +1,13 @@
+﻿生成启动时间为 2022/2/17 12:00:05。
+     1>项目“E:\code\TestC++\test_2_16\test_2_16\test_2_16.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+         Test.cpp
+     1>e:\code\testc++\test_2_16\test_2_16\test.cpp(229): error C2512: “Time”: 没有合适的默认构造函数可用
+     1>e:\code\testc++\test_2_16\test_2_16\test.cpp(236): error C2039: “second”: 不是“Time”的成员
+                 e:\code\testc++\test_2_16\test_2_16\test.cpp(206) : 参见“Time”的声明
+     1>已完成生成项目“E:\code\TestC++\test_2_16\test_2_16\test_2_16.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.31
